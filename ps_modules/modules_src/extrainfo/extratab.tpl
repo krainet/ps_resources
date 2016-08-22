@@ -1,0 +1,1 @@
+<li><a href="#msTabHolder" class="idTabHrefShort">{l s='Extra Info' mod='extrainfo'}</a></li>

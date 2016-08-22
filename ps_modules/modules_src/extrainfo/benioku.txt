@@ -1,0 +1,17 @@
+Ekstra Ürün Bilgi Sekmesi Modülü
+
+Bu modül ürün sayfasý sekmelerine ekstra bilgi sekmesi ekler.
+
+Modül içerisindeki veri alanlarý bir online kitap satýcýsýnýn isteði doðrultusunda deðiþtirilmiþtir. Yeni veri alaný eklemek veya mevcut olanlarý deðiþtirmek için extratabContents.tpl dosyasýný düzenlemek yeterli olacaktýr.
+
+Mevcut deðiþiklikler aþaðýda sunulmuþtur:
+
+Yazar&Çizer alaný : ürün referans bilgisini kullanýr
+ISBN alaný : EAN13 (barkod) bilgisini kullanýr
+Ürün kodu alaný : UPC bilgisini kullanýr
+
+Prestashop'ýn 1.4.x sürümleri ile uyumludur.
+
+Ýletiþim: admin@eskipusku.com
+
+NOT: Modül ücretsiz daðýtýlabilir.

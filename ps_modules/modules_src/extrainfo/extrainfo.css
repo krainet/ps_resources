@@ -1,0 +1,9 @@
+.activeContent{display:block;}
+.inActiveContent{display:none}
+#msTabHolder_contents{margin:5px 0 0 0}
+
+#msTabHolder_tabs a, #msTabHolder_tabs a:hover, #msTabHolder_tabs a:visited{display:inline-block; height:20px; border:1px solid #c3c3c3;text-decoration:none; padding:5px 5px 0 5px;}
+#msTabHolder_tabs a.activeTab, #msTabHolder_tabs a.activeTab:visited{background-color:#3E7924; color:#FFFFFF;}
+
+
+#msTabHolder_tabs a.inActiveTab, #msTabHolder_tabs a.inActiveTab:visited{background-color:#FFFFFF}
